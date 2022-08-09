@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>ალაზანი...</h2>
+<h2>alazani...</h2>
 </body>
 </html>
